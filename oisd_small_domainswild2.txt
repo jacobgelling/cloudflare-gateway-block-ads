@@ -35459,7 +35459,6 @@ statscollector-1.agora.io
 statscollector.sd-rtn.com
 statsforads.com
 statsie.com
-statsig.anthropic.com
 statsigapi.net
 statsjs.klevu.com
 statsmobi.com

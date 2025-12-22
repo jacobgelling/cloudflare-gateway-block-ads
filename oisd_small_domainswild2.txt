@@ -10095,7 +10095,6 @@ cdn.js.fpaudience.com
 cdn.kaizenplatform.net
 cdn.kelpo.cloud
 cdn.kmalgo.com
-cdn.ktbch.cloud
 cdn.laim.tv
 cdn.leightonbroadcasting.com
 cdn.lodeo.io

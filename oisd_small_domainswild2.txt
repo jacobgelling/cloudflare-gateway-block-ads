@@ -3611,7 +3611,6 @@ ads.elpais.com.uy
 ads.emirates.net.ae
 ads.ennaharonline.com
 ads.enrt.eu
-ads.environmentalleader.com
 ads.epltalk.com
 ads.eu.msn.com
 ads.fairfax.com.au

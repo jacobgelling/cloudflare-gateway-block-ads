@@ -20136,7 +20136,6 @@ geoinfo.i2w.io
 geoip.al.com
 geoip.apps.avada.io
 geoip.cleveland.com
-geoip.fotoable.net
 geoip.gulflive.com
 geoip.ifunny.co
 geoip.inquirer.net
@@ -45362,7 +45361,6 @@ usp1.baidu.com
 usr.interactiveone.com
 usrpubtrk.com
 usstat.icocofun.com
-ustatoothoab.com
 usuallyformal.com
 usualsparehumanity.com
 usunompuzoz.net

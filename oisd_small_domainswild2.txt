@@ -6125,7 +6125,6 @@ api-analytics-prd.pelcro.com
 api-analytics.pelikan.sk
 api-analytics.prod.birdapp.com
 api-analytics.rozetka.com.ua
-api-ao.adison.co
 api-exponea.o2.cz
 api-exponea.o2.sk
 api-gd.hiaiabc.com

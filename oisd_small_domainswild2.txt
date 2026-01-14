@@ -26032,7 +26032,6 @@ log.getadblock.com
 log.giacngo.vn
 log.giaoduc.net.vn
 log.giaoducthoidai.vn
-log.go.com
 log.gobankingrates.com
 log.gomlab.com
 log.goodnovel.com

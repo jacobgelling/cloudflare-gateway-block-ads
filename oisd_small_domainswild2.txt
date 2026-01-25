@@ -3491,6 +3491,7 @@ ads-server.mxplay.com
 ads-service.api.linkme.global
 ads-sg.tiktok.com
 ads-static.conde.digital
+ads-static.phonepe.com
 ads-static.recon.com
 ads-thanhnien-vn.cdn.ampproject.org
 ads-tracking.collectiveaudience.co
@@ -3735,6 +3736,7 @@ ads.pdbarea.com
 ads.pennet.com
 ads.people-group.net
 ads.periodistadigital.com
+ads.phonepe.com
 ads.phpclasses.org
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
@@ -23966,6 +23968,7 @@ jerkiesbrent.shop
 jerkszanana.shop
 jeroud.com
 jerseydiploma.com
+jesjes.xyz
 jespekvtcgfuu.website
 jessamyclink.com
 jessunews.com
@@ -45175,7 +45178,6 @@ veskitnerved.com
 vespymedia.com
 vestintend.com
 vesuvinaqueity.top
-vesx.jesjes.xyz
 vetchesthiever.com
 veterancommentary.com
 vetofellowshipfly.com
@@ -46024,7 +46026,6 @@ warlog.ru
 warmerscarlet.com
 warmheartedengine.com
 warmlyparliamentscroll.com
-warnergeratedmilldam.cfd
 warped-bus.com
 warpedbrother.pro
 warranthum.com

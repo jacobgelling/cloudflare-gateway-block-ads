@@ -3937,7 +3937,6 @@ ads.yimg.com
 ads.youtube.com
 ads.zalo.me
 ads.zaloapp.com
-ads.zascdn.me
 ads.zhinengxiyifang.cn
 ads.zunia.vn
 ads01.pages.dev

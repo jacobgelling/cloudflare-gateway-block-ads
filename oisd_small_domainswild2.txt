@@ -3287,7 +3287,6 @@ adlogists.com
 adlookmanager.com
 adloox.com
 adlooxtracking.com
-adlpo.com
 adlserq.com
 adlure.net
 adm.52swine.com
@@ -13342,6 +13341,7 @@ d-log.asahi.co.jp
 d-log.tv-asahi.co.jp
 d-test.39.net
 d.8181zx.com
+d.adlpo.com
 d.adroll.com
 d.adtriba.com
 d.dgzj.com
@@ -46174,6 +46174,7 @@ t.a3cloud.net
 t.adbr.io
 t.adclr.jp
 t.adii.se
+t.adlpo.com
 t.adtrckr.uno
 t.aftermath.site
 t.apkpure.net

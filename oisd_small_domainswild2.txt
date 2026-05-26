@@ -42709,7 +42709,6 @@ sdk-api.kidoz.net
 sdk-cache.video.ptqy.gitv.tv
 sdk-cdn.optimove.net
 sdk-log-inter.youdao.com
-sdk-log-upload-os.hoyoverse.com
 sdk-log.airbridge.io
 sdk-monitoring.ogury.co
 sdk-orion.appboy.com
